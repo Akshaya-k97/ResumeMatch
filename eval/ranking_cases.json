@@ -1,0 +1,39 @@
+{
+  "note": "Small hand-written set. Labels are human judgments of fit: 0 = weak, 1 = partial, 2 = strong.",
+  "jds": {
+    "backend":   "Backend Developer Intern\nRequirements:\n- Proficiency in Java and SQL\n- Experience building REST APIs with Spring Boot\n- Familiarity with Git\nNice to have:\n- Docker\n- AWS",
+    "frontend":  "Frontend Developer Intern\nRequirements:\n- Strong JavaScript, HTML and CSS\n- Experience with React\n- Version control with Git\nNice to have:\n- TypeScript\n- Jest unit testing",
+    "data":      "Data Science Intern\nRequirements:\n- Python and SQL\n- Pandas and NumPy\n- Machine learning fundamentals with scikit-learn\nNice to have:\n- Tableau\n- AWS",
+    "fullstack": "Full-Stack Developer Intern\nRequirements:\n- Python with Flask\n- JavaScript and React\n- PostgreSQL\n- Git and GitHub\nNice to have: Docker, CI/CD"
+  },
+  "resumes": {
+    "A_backend_java": {
+      "text": "Computer science student. Skills: Java, Spring Boot, MySQL, Git, Docker.\nInternship: built REST APIs with Spring Boot for an inventory system.",
+      "labels": {"backend": 2, "frontend": 0, "data": 0, "fullstack": 0}
+    },
+    "B_frontend": {
+      "text": "Skills: JavaScript, TypeScript, React, HTML, CSS, Git, GitHub, Jest.\nProjects: responsive portfolio and a React dashboard with unit tests.",
+      "labels": {"backend": 0, "frontend": 2, "data": 0, "fullstack": 1}
+    },
+    "C_data": {
+      "text": "Skills: Python, pandas, NumPy, scikit-learn, SQL, Tableau, Git.\nProjects: churn prediction with scikit-learn; sales dashboard in Tableau.",
+      "labels": {"backend": 0, "frontend": 0, "data": 2, "fullstack": 0}
+    },
+    "D_fullstack": {
+      "text": "Skills: Python, Flask, JavaScript, React, PostgreSQL, Git, GitHub, Docker.\nProject: task manager with a Flask backend and React frontend.",
+      "labels": {"backend": 1, "frontend": 1, "data": 0, "fullstack": 2}
+    },
+    "E_related_stack": {
+      "text": "Built RESTful services using Flask and Django, stored data in MySQL, versioned code on GitHub, containerized with Docker, deployed on Azure.",
+      "labels": {"backend": 1, "frontend": 0, "data": 0, "fullstack": 1}
+    },
+    "F_irrelevant": {
+      "text": "Marketing student. Skills: Excel, communication, social media campaigns, event planning. Organized a campus fundraiser.",
+      "labels": {"backend": 0, "frontend": 0, "data": 0, "fullstack": 0}
+    },
+    "G_paraphrased_backend": {
+      "text": "Java developer. Built web services with Spring MVC, used JDBC against Oracle databases, and managed code on GitHub.",
+      "labels": {"backend": 2, "frontend": 0, "data": 0, "fullstack": 0}
+    }
+  }
+}

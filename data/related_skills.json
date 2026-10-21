@@ -1,0 +1,20 @@
+{
+  "_comment": "For each skill the job asks for, skills that suggest transferable experience. Judgment calls: review and edit.",
+  "SQL":         ["MySQL", "PostgreSQL", "SQLite"],
+  "MySQL":       ["PostgreSQL", "SQLite"],
+  "PostgreSQL":  ["MySQL", "SQLite"],
+  "REST APIs":   ["Flask", "FastAPI", "Django", "Express", "Spring Boot"],
+  "React":       ["Angular", "Vue"],
+  "Angular":     ["React", "Vue"],
+  "Vue":         ["React", "Angular"],
+  "Docker":      ["Kubernetes"],
+  "Kubernetes":  ["Docker"],
+  "AWS":         ["Azure", "GCP"],
+  "Azure":       ["AWS", "GCP"],
+  "GCP":         ["AWS", "Azure"],
+  "Git":         ["GitHub"],
+  "GitHub":      ["Git"],
+  "Machine Learning": ["TensorFlow", "PyTorch", "scikit-learn"],
+  "TensorFlow":  ["PyTorch"],
+  "PyTorch":     ["TensorFlow"]
+}
