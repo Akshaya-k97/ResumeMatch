@@ -1,0 +1,8 @@
+JANE DOE - Computer Science Student
+
+SKILLS
+Java, Python, SQL, MySQL, Git, GitHub, HTML, CSS, JavaScript
+
+PROJECTS
+- Library Management System: Java + MySQL desktop application
+- Portfolio website using HTML, CSS and JavaScript, hosted on GitHub

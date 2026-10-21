@@ -1,0 +1,7 @@
+Software Developer Intern
+
+Requirements:
+- Proficiency in Java and SQL
+- Experience with React and building REST APIs
+- Familiarity with Git and version control
+Nice to have: Docker, AWS, Agile teams
